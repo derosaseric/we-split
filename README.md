@@ -19,3 +19,7 @@ To use WeSplit, simply download or clone the repository and open the project in 
 2. Select the number of people splitting the bill using the picker.
 3. Choose the desired tip percentage from the segmented control.
 4. The app will automatically calculate the tip amount and display the amount each person needs to pay.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
